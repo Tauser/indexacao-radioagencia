@@ -1,0 +1,156 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/arquivos/deputados/json/deputados.json"
+	},
+	"response": {
+		"status": 200,
+		"headers": {
+			"Content-Type": "application/json"
+		},
+		"jsonBody": {	
+			"dados": [
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73653",
+		            "nome": "WELINTON FAGUNDES",
+		            "idLegislaturaInicial": 49,
+		            "idLegislaturaFinal": 54,
+		            "nomeCivil": "WELLINGTON ANTONIO FAGUNDES",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1957-06-01",
+		            "dataFalecimento": "",
+		            "ufNascimento": "MT",
+		            "municipioNascimento": "Rondonópolis"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74047",
+		            "nome": "PAULO RUBEM SANTIAGO",
+		            "idLegislaturaInicial": 52,
+		            "idLegislaturaFinal": 54,
+		            "nomeCivil": "PAULO RUBEM SANTIAGO FERREIRA",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1955-07-17",
+		            "dataFalecimento": "",
+		            "ufNascimento": "RJ",
+		            "municipioNascimento": "Rio de Janeiro"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/73938",
+		            "nome": "EDUARDO VALVERDE",
+		            "idLegislaturaInicial": 52,
+		            "idLegislaturaFinal": 53,
+		            "nomeCivil": "EDUARDO VALVERDE ARAÚJO ALVES",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1957-02-20",
+		            "dataFalecimento": "2011-03-11",
+		            "ufNascimento": "RJ",
+		            "municipioNascimento": "Rio de Janeiro"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141436",
+		            "nome": "FLÁVIO DINO",
+		            "idLegislaturaInicial": 53,
+		            "idLegislaturaFinal": 53,
+		            "nomeCivil": "FLÁVIO DINO DE CASTRO E COSTA",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1968-04-30",
+		            "dataFalecimento": "",
+		            "ufNascimento": "MA",
+		            "municipioNascimento": "São Luís"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/141433",
+		            "nome": "FILIPE PEREIRA",
+		            "idLegislaturaInicial": 53,
+		            "idLegislaturaFinal": 54,
+		            "nomeCivil": "FILIPE DE ALMEIDA PEREIRA",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1983-11-16",
+		            "dataFalecimento": "",
+		            "ufNascimento": "RJ",
+		            "municipioNascimento": "Rio de Janeiro"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/11",
+		            "nome": "ALBUQUERQUE CAVALCANTI",
+		            "idLegislaturaInicial": 3,
+		            "idLegislaturaFinal": 4,
+		            "nomeCivil": "José Mariano de Albuquerque Cavalcanti",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1772-05-20",
+		            "dataFalecimento": "1844-08-20",
+		            "ufNascimento": "CE",
+		            "municipioNascimento": ""
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/17",
+		            "nome": "CARNEIRO DA CUNHA",
+		            "idLegislaturaInicial": 2,
+		            "idLegislaturaFinal": 8,
+		            "nomeCivil": "Joaquim Manoel Carneiro da Cunha",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1796-01-01",
+		            "dataFalecimento": "1859-09-07",
+		            "ufNascimento": "",
+		            "municipioNascimento": ""
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/18",
+		            "nome": "CRUZ GOUVEIA",
+		            "idLegislaturaInicial": 16,
+		            "idLegislaturaFinal": 19,
+		            "nomeCivil": "José da Cruz Gouveia",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "",
+		            "dataFalecimento": "",
+		            "ufNascimento": "PB",
+		            "municipioNascimento": "Areia"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/20",
+		            "nome": "INTENDENTE CÂMARA",
+		            "idLegislaturaInicial": 1,
+		            "idLegislaturaFinal": 1,
+		            "nomeCivil": "Manoel Ferreira da Câmara Bittencourt Aguiar e Sá",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1762-01-01",
+		            "dataFalecimento": "1835-12-13",
+		            "ufNascimento": "MG",
+		            "municipioNascimento": "Itacambira"
+		        },
+		        {
+		            "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/23",
+		            "nome": "MAIA",
+		            "idLegislaturaInicial": 1,
+		            "idLegislaturaFinal": 2,
+		            "nomeCivil": "José Antônio da Silva Maia",
+		            "siglaSexo": "M",
+		            "urlRedeSocial": [],
+		            "urlWebsite": [],
+		            "dataNascimento": "1789-10-06",
+		            "dataFalecimento": "1853-10-03",
+		            "ufNascimento": "",
+		            "municipioNascimento": ""
+		        }
+			]	  
+		}
+	}
+}
